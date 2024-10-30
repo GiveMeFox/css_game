@@ -7,7 +7,7 @@
 </script>
 
 <span class="sticky top-0 flex justify-between items-center p-3">
-	<span></span>
+	<span><h1>pierdol sie</h1></span>
 	<DarkMode {btnClass} />
 </span>
 <span class="h-[100%]">
