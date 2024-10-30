@@ -10,7 +10,5 @@
 	<span><h1>pierdol sie</h1></span>
 	<DarkMode {btnClass} />
 </span>
-<span class="h-[100%]">
 {@render children()}
-</span>
 
