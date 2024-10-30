@@ -10,4 +10,7 @@
 	<span></span>
 	<DarkMode {btnClass} />
 </span>
+<span class="h-[100%]">
 {@render children()}
+</span>
+
